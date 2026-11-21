@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Ghost glyph: white on transparent, as status-bar icons require.
+         Eyes and mouth are holes (evenOdd) so the face shows through. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M5,10.5A7,7 0,0 1,19 10.5L19,19.5Q17.25,22.6 15.5,19.5Q13.75,22.6 12,19.5Q10.25,22.6 8.5,19.5Q6.75,22.6 5,19.5Z
+            M8.6,11.2a1.1,1.45 0,1 0,2.2 0a1.1,1.45 0,1 0,-2.2 0Z
+            M13.2,11.2a1.1,1.45 0,1 0,2.2 0a1.1,1.45 0,1 0,-2.2 0Z
+            M11.3,14.6a0.7,0.95 0,1 0,1.4 0a0.7,0.95 0,1 0,-1.4 0Z"/>
+</vector>

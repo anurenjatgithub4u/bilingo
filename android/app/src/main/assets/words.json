@@ -1,0 +1,2726 @@
+[
+ {
+  "lang": "en",
+  "word": "serendipity",
+  "meaning": "Finding something good by chance, without looking for it.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "ephemeral",
+  "meaning": "Lasting for a very short time.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "resilient",
+  "meaning": "Able to recover quickly from difficulties.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "meticulous",
+  "meaning": "Showing great attention to detail; very careful and precise.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "ubiquitous",
+  "meaning": "Present or found everywhere.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "eloquent",
+  "meaning": "Fluent and persuasive in speaking or writing.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "pragmatic",
+  "meaning": "Dealing with things sensibly and realistically.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "benevolent",
+  "meaning": "Well-meaning and kind.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "candid",
+  "meaning": "Honest and straightforward in expression.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "diligent",
+  "meaning": "Careful and hard-working in one's work or duties.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "empathy",
+  "meaning": "The ability to understand and share another person's feelings.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "frugal",
+  "meaning": "Careful and sparing with money or resources.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "gregarious",
+  "meaning": "Fond of company; sociable.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "humble",
+  "meaning": "Having a modest view of one's own importance.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "inevitable",
+  "meaning": "Certain to happen; unavoidable.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "juxtapose",
+  "meaning": "To place things side by side to compare or contrast them.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "lucid",
+  "meaning": "Clearly expressed and easy to understand.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "mundane",
+  "meaning": "Ordinary and lacking excitement.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "nostalgia",
+  "meaning": "A wistful longing for the past.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "obscure",
+  "meaning": "Not clearly seen or understood; little known.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "paradox",
+  "meaning": "A statement that seems contradictory but may still be true.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "quaint",
+  "meaning": "Attractively unusual or old-fashioned.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "reluctant",
+  "meaning": "Unwilling and hesitant.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "scrutinize",
+  "meaning": "To examine or inspect closely and thoroughly.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "tenacious",
+  "meaning": "Holding firmly to a purpose; persistent.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "verbose",
+  "meaning": "Using more words than needed.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "whimsical",
+  "meaning": "Playfully quaint or fanciful.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "zealous",
+  "meaning": "Full of energy and enthusiasm for a cause.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "ambiguous",
+  "meaning": "Open to more than one interpretation.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "catalyst",
+  "meaning": "Something that causes or speeds up change.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "deliberate",
+  "meaning": "Done consciously and intentionally.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "enigma",
+  "meaning": "A person or thing that is mysterious or hard to understand.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "fortitude",
+  "meaning": "Courage in pain or adversity.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "hindsight",
+  "meaning": "Understanding an event only after it has happened.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "integrity",
+  "meaning": "Being honest and having strong moral principles.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "jubilant",
+  "meaning": "Feeling or expressing great joy.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "keen",
+  "meaning": "Eager, enthusiastic, or sharp.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "mellow",
+  "meaning": "Soft, smooth, and relaxed.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "nuance",
+  "meaning": "A subtle difference in meaning, tone, or expression.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "optimistic",
+  "meaning": "Hopeful and confident about the future.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "perseverance",
+  "meaning": "Continued effort despite difficulty or delay.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "radiant",
+  "meaning": "Sending out light; glowing with happiness.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "solitude",
+  "meaning": "The state of being alone, often peacefully.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "tranquil",
+  "meaning": "Calm and free from disturbance.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "vivid",
+  "meaning": "Producing strong, clear images in the mind.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "wander",
+  "meaning": "To walk or move without a fixed route or aim.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "yearn",
+  "meaning": "To have an intense longing for something.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "flourish",
+  "meaning": "To grow or develop in a healthy, successful way.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "gratitude",
+  "meaning": "The quality of being thankful.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Fernweh",
+  "meaning": "A longing for far-off places; the opposite of homesickness.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Gemütlichkeit",
+  "meaning": "Cosiness; a warm, friendly, relaxed atmosphere.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Feierabend",
+  "meaning": "The end of the working day; free time after work.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Sehnsucht",
+  "meaning": "A deep, painful longing for something.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Waldeinsamkeit",
+  "meaning": "The peaceful feeling of being alone in the woods.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Zeitgeist",
+  "meaning": "The spirit or mood of a particular era.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Weltschmerz",
+  "meaning": "Melancholy caused by the gap between the world as it is and as it should be.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Fingerspitzengefühl",
+  "meaning": "Intuitive sensitivity and tact (lit. fingertip feeling).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Verschlimmbessern",
+  "meaning": "To make something worse by trying to improve it.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Erleichterung",
+  "meaning": "Relief.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Freundschaft",
+  "meaning": "Friendship.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Heimat",
+  "meaning": "Home; the place where one feels one belongs.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Geborgenheit",
+  "meaning": "A feeling of safety, security, and being sheltered.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Vorfreude",
+  "meaning": "The joy of anticipating something good.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Schadenfreude",
+  "meaning": "Pleasure at someone else's misfortune.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Kopfkino",
+  "meaning": "Imagining scenarios vividly in your head (lit. head cinema).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Ohrwurm",
+  "meaning": "A catchy song stuck in your head (lit. ear worm).",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Torschlusspanik",
+  "meaning": "Fear that time and opportunities are running out.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Backpfeifengesicht",
+  "meaning": "A face that begs to be slapped; an infuriating face.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Kummerspeck",
+  "meaning": "Weight gained from emotional eating (lit. grief bacon).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Zugzwang",
+  "meaning": "A situation where any move makes things worse.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Wanderlust",
+  "meaning": "A strong desire to travel and explore.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Augenblick",
+  "meaning": "A moment (lit. the blink of an eye).",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Gedächtnis",
+  "meaning": "Memory.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Schmetterling",
+  "meaning": "Butterfly.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Eichhörnchen",
+  "meaning": "Squirrel.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Bürgersteig",
+  "meaning": "Pavement; sidewalk.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Aufwiedersehen",
+  "meaning": "Goodbye; until we see each other again.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Gesundheit",
+  "meaning": "Health; also said after a sneeze.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Lebensfreude",
+  "meaning": "Joy of life; zest for living.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Erinnerung",
+  "meaning": "Memory; a remembrance.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Fachkraft",
+  "meaning": "A skilled worker or specialist.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Hochachtung",
+  "meaning": "High regard; deep respect.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Neugier",
+  "meaning": "Curiosity.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Pünktlichkeit",
+  "meaning": "Punctuality.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Rücksicht",
+  "meaning": "Consideration for others.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Selbstbewusstsein",
+  "meaning": "Self-confidence.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Tatendrang",
+  "meaning": "Eagerness to take action.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Unterschied",
+  "meaning": "Difference.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Verantwortung",
+  "meaning": "Responsibility.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Wohnzimmer",
+  "meaning": "Living room.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Zufriedenheit",
+  "meaning": "Contentment; satisfaction.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Ausflug",
+  "meaning": "A day trip; an excursion.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Dankbarkeit",
+  "meaning": "Gratitude.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Hilfsbereit",
+  "meaning": "Helpful; ready to lend a hand.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Lichtblick",
+  "meaning": "A ray of hope; a bright spot.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Mitgefühl",
+  "meaning": "Compassion; sympathy.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "उम्मीद",
+  "meaning": "(ummeed) Hope; expectation of something good.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "ज़िंदगी",
+  "meaning": "(zindagi) Life.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "दोस्ती",
+  "meaning": "(dosti) Friendship.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "मुस्कान",
+  "meaning": "(muskaan) A smile.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "सपना",
+  "meaning": "(sapna) A dream.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "हिम्मत",
+  "meaning": "(himmat) Courage; bravery.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "सब्र",
+  "meaning": "(sabr) Patience; calm endurance.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "इंतज़ार",
+  "meaning": "(intezaar) Waiting; anticipation.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "मेहनत",
+  "meaning": "(mehnat) Hard work; effort.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "कामयाबी",
+  "meaning": "(kaamyaabi) Success.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "ख़ुशी",
+  "meaning": "(khushi) Happiness; joy.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "शांति",
+  "meaning": "(shaanti) Peace; calm.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "प्यार",
+  "meaning": "(pyaar) Love.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "रिश्ता",
+  "meaning": "(rishta) A relationship; a bond.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "यादें",
+  "meaning": "(yaadein) Memories.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "सुकून",
+  "meaning": "(sukoon) Deep peace of mind; relief.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "तज़ुर्बा",
+  "meaning": "(tajurba) Experience gained over time.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "ईमानदारी",
+  "meaning": "(imaandaari) Honesty.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "शुक्रिया",
+  "meaning": "(shukriya) Thank you; gratitude.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "आज़ादी",
+  "meaning": "(aazaadi) Freedom.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "किताब",
+  "meaning": "(kitaab) Book.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "ज्ञान",
+  "meaning": "(gyaan) Knowledge; wisdom.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "विश्वास",
+  "meaning": "(vishwaas) Trust; belief.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "इज़्ज़त",
+  "meaning": "(izzat) Respect; honour.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "हौसला",
+  "meaning": "(hausla) Spirit; morale; the will to carry on.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "मंज़िल",
+  "meaning": "(manzil) Destination; goal.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "सफ़र",
+  "meaning": "(safar) A journey.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "दिल",
+  "meaning": "(dil) Heart.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "चाँद",
+  "meaning": "(chaand) Moon.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "सूरज",
+  "meaning": "(sooraj) Sun.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "बारिश",
+  "meaning": "(baarish) Rain.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "इंद्रधनुष",
+  "meaning": "(indradhanush) Rainbow.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "तितली",
+  "meaning": "(titli) Butterfly.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "पहचान",
+  "meaning": "(pehchaan) Identity; recognition.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "जिज्ञासा",
+  "meaning": "(jigyaasa) Curiosity; desire to know.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "कृतज्ञता",
+  "meaning": "(kritagyata) Gratitude.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "साहस",
+  "meaning": "(saahas) Courage.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "संतोष",
+  "meaning": "(santosh) Contentment; satisfaction.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "अनुभव",
+  "meaning": "(anubhav) Experience.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "प्रेरणा",
+  "meaning": "(prerna) Inspiration; motivation.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "मौसम",
+  "meaning": "(mausam) Weather; season.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "घर",
+  "meaning": "(ghar) Home; house.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "परिवार",
+  "meaning": "(parivaar) Family.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "मिठास",
+  "meaning": "(mithaas) Sweetness.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "रोशनी",
+  "meaning": "(roshni) Light; brightness.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "ख़ामोशी",
+  "meaning": "(khaamoshi) Silence.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "इरादा",
+  "meaning": "(iraada) Intention; determination.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "जुनून",
+  "meaning": "(junoon) Passion; obsession.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "अपनापन",
+  "meaning": "(apnapan) A feeling of belonging and closeness.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "तालमेल",
+  "meaning": "(taalmel) Harmony; coordination.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "brave",
+  "meaning": "Ready to face danger or pain without fear.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "curious",
+  "meaning": "Eager to know or learn something.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "gentle",
+  "meaning": "Kind, calm and careful; not rough.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "honest",
+  "meaning": "Telling the truth; not cheating.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "generous",
+  "meaning": "Happy to give more than is expected.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "cheerful",
+  "meaning": "Happy and positive.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "patient",
+  "meaning": "Able to wait calmly without getting upset.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "polite",
+  "meaning": "Having good manners; respectful.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "journey",
+  "meaning": "A trip from one place to another.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "habit",
+  "meaning": "Something you do often, almost without thinking.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "borrow",
+  "meaning": "To take something and promise to give it back.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "explore",
+  "meaning": "To travel around a place to learn about it.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "forgive",
+  "meaning": "To stop being angry with someone.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "improve",
+  "meaning": "To make or become better.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "celebrate",
+  "meaning": "To do something enjoyable for a special occasion.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "recommend",
+  "meaning": "To suggest something as good.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "ancient",
+  "meaning": "Very old; from a long time ago.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "delicious",
+  "meaning": "Tasting very good.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "fragile",
+  "meaning": "Easily broken or damaged.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "confident",
+  "meaning": "Sure of yourself and your abilities.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "gather",
+  "meaning": "To come or bring together in one place.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "whisper",
+  "meaning": "To speak very softly.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "effort",
+  "meaning": "Hard work used to do something.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "opportunity",
+  "meaning": "A chance to do something.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "purpose",
+  "meaning": "The reason why something is done.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "cozy",
+  "meaning": "Warm, comfortable and relaxing.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "neighbour",
+  "meaning": "A person who lives near you.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "schedule",
+  "meaning": "A plan of times when things will happen.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "advice",
+  "meaning": "An opinion about what someone should do.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "decide",
+  "meaning": "To choose after thinking.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "nervous",
+  "meaning": "Worried and a little afraid.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "proud",
+  "meaning": "Pleased about something you or others did.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "rare",
+  "meaning": "Not common; not happening often.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "quiet",
+  "meaning": "Making little or no noise.",
+  "level": 1
+ },
+ {
+  "lang": "en",
+  "word": "adapt",
+  "meaning": "To change to suit a new situation.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "anticipate",
+  "meaning": "To expect something and prepare for it.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "authentic",
+  "meaning": "Real and genuine; not a copy.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "coherent",
+  "meaning": "Clear, logical and easy to follow.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "compassion",
+  "meaning": "Concern for others who are suffering.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "concise",
+  "meaning": "Saying a lot in few words.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "contemplate",
+  "meaning": "To think about something deeply.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "convey",
+  "meaning": "To communicate an idea or feeling.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "diverse",
+  "meaning": "Very different from each other; varied.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "elaborate",
+  "meaning": "Detailed and carefully planned.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "emphasize",
+  "meaning": "To give special importance to something.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "endure",
+  "meaning": "To suffer something difficult patiently.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "feasible",
+  "meaning": "Possible and practical to do.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "genuine",
+  "meaning": "Real and sincere.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "hesitate",
+  "meaning": "To pause before doing something because you are unsure.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "impulsive",
+  "meaning": "Acting suddenly without thinking first.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "inspire",
+  "meaning": "To fill someone with the wish to do something.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "intricate",
+  "meaning": "Having many small, complex parts.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "modest",
+  "meaning": "Not talking much about your own success.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "negotiate",
+  "meaning": "To discuss something to reach an agreement.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "obsolete",
+  "meaning": "No longer used because something newer exists.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "persuade",
+  "meaning": "To make someone agree by giving reasons.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "plausible",
+  "meaning": "Seeming reasonable or likely to be true.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "profound",
+  "meaning": "Very deep or intense.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "reconcile",
+  "meaning": "To become friendly again after a disagreement.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "redundant",
+  "meaning": "No longer needed; more than necessary.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "reliable",
+  "meaning": "Able to be trusted.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "sincere",
+  "meaning": "Honest and meaning what you say.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "spontaneous",
+  "meaning": "Done naturally, without planning.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "subtle",
+  "meaning": "Not obvious; small but important.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "thrive",
+  "meaning": "To grow, develop or succeed well.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "versatile",
+  "meaning": "Able to do many different things well.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "vulnerable",
+  "meaning": "Easily hurt, physically or emotionally.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "wholesome",
+  "meaning": "Good for your health or wellbeing.",
+  "level": 2
+ },
+ {
+  "lang": "en",
+  "word": "alacrity",
+  "meaning": "Eager and cheerful readiness.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "ameliorate",
+  "meaning": "To make a bad situation better.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "anachronism",
+  "meaning": "Something that belongs to a different time period.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "cacophony",
+  "meaning": "A harsh mixture of loud sounds.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "capricious",
+  "meaning": "Changing mood or behaviour suddenly.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "circumspect",
+  "meaning": "Careful to consider all risks before acting.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "conundrum",
+  "meaning": "A confusing and difficult problem.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "deleterious",
+  "meaning": "Causing harm or damage.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "ebullient",
+  "meaning": "Cheerful and full of energy.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "equanimity",
+  "meaning": "Calmness, especially in a difficult situation.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "esoteric",
+  "meaning": "Understood by only a small group of people.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "fastidious",
+  "meaning": "Very attentive to accuracy and detail.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "garrulous",
+  "meaning": "Talking a lot, often about unimportant things.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "idiosyncrasy",
+  "meaning": "A habit or way of behaving peculiar to one person.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "ineffable",
+  "meaning": "Too great or beautiful to describe in words.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "laconic",
+  "meaning": "Using very few words.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "magnanimous",
+  "meaning": "Generous and forgiving, especially to a rival.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "melancholy",
+  "meaning": "A deep, quiet sadness.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "nonchalant",
+  "meaning": "Calm and seemingly uninterested.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "obfuscate",
+  "meaning": "To make something unclear on purpose.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "perfunctory",
+  "meaning": "Done quickly and without real care.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "petrichor",
+  "meaning": "The pleasant smell of earth after rain.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "quintessential",
+  "meaning": "The most perfect example of something.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "recalcitrant",
+  "meaning": "Stubbornly refusing to obey or cooperate.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "sanguine",
+  "meaning": "Hopeful and optimistic, even in a bad situation.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "sycophant",
+  "meaning": "A person who flatters powerful people to gain favour.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "taciturn",
+  "meaning": "Saying very little; reserved.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "vicarious",
+  "meaning": "Felt through another person's experience.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "wistful",
+  "meaning": "Gently sad and longing for something.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "sagacious",
+  "meaning": "Wise and showing good judgement.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "insidious",
+  "meaning": "Harmful in a slow, hidden way.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "mellifluous",
+  "meaning": "Sweet and smooth to hear.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "panacea",
+  "meaning": "A solution for every problem.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "ostentatious",
+  "meaning": "Showy, designed to impress others.",
+  "level": 3
+ },
+ {
+  "lang": "en",
+  "word": "halcyon",
+  "meaning": "Calm, happy and peaceful (of a past time).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Apfel",
+  "meaning": "Apple.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Brot",
+  "meaning": "Bread.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Katze",
+  "meaning": "Cat.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Hund",
+  "meaning": "Dog.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Haus",
+  "meaning": "House.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Schule",
+  "meaning": "School.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Freund",
+  "meaning": "Friend (male); boyfriend.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Familie",
+  "meaning": "Family.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Wasser",
+  "meaning": "Water.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Sonne",
+  "meaning": "Sun.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Mond",
+  "meaning": "Moon.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Buch",
+  "meaning": "Book.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Stadt",
+  "meaning": "Town; city.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Zug",
+  "meaning": "Train.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Fenster",
+  "meaning": "Window.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Tür",
+  "meaning": "Door.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Tisch",
+  "meaning": "Table.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Zeit",
+  "meaning": "Time.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Wetter",
+  "meaning": "Weather.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Morgen",
+  "meaning": "Morning.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Nacht",
+  "meaning": "Night.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Essen",
+  "meaning": "Food; meal.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Arbeit",
+  "meaning": "Work; job.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Himmel",
+  "meaning": "Sky; heaven.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Blume",
+  "meaning": "Flower.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Baum",
+  "meaning": "Tree.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Geschenk",
+  "meaning": "Present; gift.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Reise",
+  "meaning": "Trip; journey.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Lächeln",
+  "meaning": "Smile.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Geburtstag",
+  "meaning": "Birthday.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Küche",
+  "meaning": "Kitchen; cuisine.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Regen",
+  "meaning": "Rain.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "lernen",
+  "meaning": "To learn; to study.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "schön",
+  "meaning": "Beautiful; nice.",
+  "level": 1
+ },
+ {
+  "lang": "de",
+  "word": "Erfahrung",
+  "meaning": "Experience.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Gelegenheit",
+  "meaning": "Opportunity; occasion.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Entscheidung",
+  "meaning": "Decision.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Geduld",
+  "meaning": "Patience.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Erfolg",
+  "meaning": "Success.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Herausforderung",
+  "meaning": "Challenge.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Umwelt",
+  "meaning": "Environment.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Gesellschaft",
+  "meaning": "Society; company.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Meinung",
+  "meaning": "Opinion.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Gespräch",
+  "meaning": "Conversation; talk.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Ausbildung",
+  "meaning": "Training; apprenticeship; education.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Gewohnheit",
+  "meaning": "Habit.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Vertrauen",
+  "meaning": "Trust.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Hoffnung",
+  "meaning": "Hope.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Stimmung",
+  "meaning": "Mood; atmosphere.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Zusammenhang",
+  "meaning": "Connection; context.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Leistung",
+  "meaning": "Performance; achievement.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Fortschritt",
+  "meaning": "Progress.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Vorstellung",
+  "meaning": "Idea; imagination; performance.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Ziel",
+  "meaning": "Goal; destination.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Sicherheit",
+  "meaning": "Safety; security; certainty.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Ahnung",
+  "meaning": "Idea; hunch.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Verständnis",
+  "meaning": "Understanding.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Absicht",
+  "meaning": "Intention.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Zweifel",
+  "meaning": "Doubt.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Überraschung",
+  "meaning": "Surprise.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Abenteuer",
+  "meaning": "Adventure.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Freiheit",
+  "meaning": "Freedom.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Gemeinschaft",
+  "meaning": "Community.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Zuversicht",
+  "meaning": "Confidence about the future; optimism.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "gemütlich",
+  "meaning": "Cosy; comfortable; relaxed.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "anstrengend",
+  "meaning": "Tiring; exhausting.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "erledigen",
+  "meaning": "To take care of; to get done.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "unterwegs",
+  "meaning": "On the way; out and about.",
+  "level": 2
+ },
+ {
+  "lang": "de",
+  "word": "Schnapsidee",
+  "meaning": "A crazy idea (lit. schnapps idea).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Fremdschämen",
+  "meaning": "Feeling embarrassed for someone else.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Treppenwitz",
+  "meaning": "A clever reply you think of too late.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Weltanschauung",
+  "meaning": "A person's view of the world; philosophy of life.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "sturmfrei",
+  "meaning": "Having the home to yourself (lit. storm-free).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Kopfzerbrechen",
+  "meaning": "Racking your brains (lit. head-breaking).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Ohrenschmaus",
+  "meaning": "A treat for the ears.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Zweisamkeit",
+  "meaning": "Togetherness as a couple.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Drachenfutter",
+  "meaning": "A gift to calm an angry partner (lit. dragon food).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Gänsehaut",
+  "meaning": "Goosebumps.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Kabelsalat",
+  "meaning": "A tangled mess of cables (lit. cable salad).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Luftschloss",
+  "meaning": "A daydream that will never come true (lit. castle in the air).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Purzelbaum",
+  "meaning": "A forward roll; somersault.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Sitzfleisch",
+  "meaning": "The patience to sit still and keep working (lit. sitting meat).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Warmduscher",
+  "meaning": "A softie; someone who avoids discomfort (lit. warm showerer).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Zungenbrecher",
+  "meaning": "Tongue twister.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Schweinehund",
+  "meaning": "Your lazy inner self (der innere Schweinehund).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Schlaraffenland",
+  "meaning": "A land of plenty; paradise of food and idleness.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Spießbürger",
+  "meaning": "A narrow-minded, conventional person.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Wendehals",
+  "meaning": "Someone who changes opinions to suit the moment (lit. wryneck).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Weichei",
+  "meaning": "A wimp (lit. soft egg).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Glückspilz",
+  "meaning": "A lucky person (lit. luck mushroom).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Pechvogel",
+  "meaning": "An unlucky person (lit. bad-luck bird).",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Feingefühl",
+  "meaning": "Sensitivity; tact.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Wehmut",
+  "meaning": "Wistful sadness; melancholy.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Leichtsinn",
+  "meaning": "Carelessness; recklessness.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Weitblick",
+  "meaning": "Foresight; vision.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Hingabe",
+  "meaning": "Devotion; dedication.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Gelassenheit",
+  "meaning": "Calmness; composure.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Unbehagen",
+  "meaning": "Unease; discomfort.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Eigensinn",
+  "meaning": "Stubbornness; wilfulness.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Geistesblitz",
+  "meaning": "A sudden brilliant idea; brainwave.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Ehrgeiz",
+  "meaning": "Ambition.",
+  "level": 3
+ },
+ {
+  "lang": "de",
+  "word": "Wortschatz",
+  "meaning": "Vocabulary (lit. word treasure).",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "पानी",
+  "meaning": "(paani) Water.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "खाना",
+  "meaning": "(khaana) Food; a meal; to eat.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "दोस्त",
+  "meaning": "(dost) Friend.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "माँ",
+  "meaning": "(maa) Mother.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "पिता",
+  "meaning": "(pita) Father.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "भाई",
+  "meaning": "(bhai) Brother.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "बहन",
+  "meaning": "(behen) Sister.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "बच्चा",
+  "meaning": "(bachcha) Child.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "विद्यालय",
+  "meaning": "(vidyaalay) School.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "पेड़",
+  "meaning": "(ped) Tree.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "फूल",
+  "meaning": "(phool) Flower.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "आसमान",
+  "meaning": "(aasmaan) Sky.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "समय",
+  "meaning": "(samay) Time.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "दिन",
+  "meaning": "(din) Day.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "रात",
+  "meaning": "(raat) Night.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "सुबह",
+  "meaning": "(subah) Morning.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "शाम",
+  "meaning": "(shaam) Evening.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "हवा",
+  "meaning": "(hawa) Air; wind.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "नदी",
+  "meaning": "(nadi) River.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "पहाड़",
+  "meaning": "(pahaad) Mountain.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "रास्ता",
+  "meaning": "(raasta) Path; way; road.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "दरवाज़ा",
+  "meaning": "(darwaaza) Door.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "खिड़की",
+  "meaning": "(khidki) Window.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "चाय",
+  "meaning": "(chaai) Tea.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "दूध",
+  "meaning": "(doodh) Milk.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "फल",
+  "meaning": "(phal) Fruit.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "शहर",
+  "meaning": "(shahar) City; town.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "गाँव",
+  "meaning": "(gaanv) Village.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "बाज़ार",
+  "meaning": "(baazaar) Market.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "खेल",
+  "meaning": "(khel) Game; sport.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "गाना",
+  "meaning": "(gaana) Song; to sing.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "कपड़े",
+  "meaning": "(kapde) Clothes.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "नींद",
+  "meaning": "(neend) Sleep.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "हँसी",
+  "meaning": "(hansi) Laughter.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "रंग",
+  "meaning": "(rang) Colour.",
+  "level": 1
+ },
+ {
+  "lang": "hi",
+  "word": "कोशिश",
+  "meaning": "(koshish) Effort; attempt.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "फ़ैसला",
+  "meaning": "(faisla) Decision.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "मौक़ा",
+  "meaning": "(mauqa) Chance; opportunity.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "भरोसा",
+  "meaning": "(bharosa) Trust; reliance.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "ज़िम्मेदारी",
+  "meaning": "(zimmedaari) Responsibility.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "सलाह",
+  "meaning": "(salaah) Advice.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "आदत",
+  "meaning": "(aadat) Habit.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "तरक़्क़ी",
+  "meaning": "(tarakki) Progress; promotion.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "मुलाक़ात",
+  "meaning": "(mulaaqaat) Meeting; encounter.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "बातचीत",
+  "meaning": "(baatcheet) Conversation.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "जवाब",
+  "meaning": "(jawaab) Answer; reply.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "सवाल",
+  "meaning": "(sawaal) Question.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "ग़लती",
+  "meaning": "(galti) Mistake.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "सच",
+  "meaning": "(sach) Truth; true.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "झूठ",
+  "meaning": "(jhooth) Lie; false.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "डर",
+  "meaning": "(dar) Fear.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "गुस्सा",
+  "meaning": "(gussa) Anger.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "अकेलापन",
+  "meaning": "(akelapan) Loneliness.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "उत्साह",
+  "meaning": "(utsaah) Enthusiasm; zeal.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "धैर्य",
+  "meaning": "(dhairya) Patience; composure.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "इतिहास",
+  "meaning": "(itihaas) History.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "भविष्य",
+  "meaning": "(bhavishya) Future.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "कल्पना",
+  "meaning": "(kalpana) Imagination.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "संगीत",
+  "meaning": "(sangeet) Music.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "त्योहार",
+  "meaning": "(tyohaar) Festival.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "मेहमान",
+  "meaning": "(mehmaan) Guest.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "तोहफ़ा",
+  "meaning": "(tohfa) Gift; present.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "इलाज",
+  "meaning": "(ilaaj) Treatment; cure.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "सेहत",
+  "meaning": "(sehat) Health.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "ख़बर",
+  "meaning": "(khabar) News.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "आवाज़",
+  "meaning": "(aawaaz) Voice; sound.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "क़िस्मत",
+  "meaning": "(kismat) Luck; fate.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "मुश्किल",
+  "meaning": "(mushkil) Difficulty; difficult.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "आराम",
+  "meaning": "(aaraam) Rest; comfort.",
+  "level": 2
+ },
+ {
+  "lang": "hi",
+  "word": "अभिमान",
+  "meaning": "(abhimaan) Pride (often too much pride).",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "विनम्रता",
+  "meaning": "(vinamrata) Humility; politeness.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "संवेदना",
+  "meaning": "(samvedna) Sympathy; sensitivity.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "परिश्रम",
+  "meaning": "(parishram) Hard work; toil.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "आत्मविश्वास",
+  "meaning": "(aatmavishwaas) Self-confidence.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "संकल्प",
+  "meaning": "(sankalp) Resolve; firm resolution.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "सद्भाव",
+  "meaning": "(sadbhaav) Goodwill; harmony.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "विडंबना",
+  "meaning": "(vidambana) Irony.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "उदासीनता",
+  "meaning": "(udaaseenta) Indifference; apathy.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "कौतूहल",
+  "meaning": "(kautoohal) Wonder; eager curiosity.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "तृष्णा",
+  "meaning": "(trishna) Craving; insatiable desire.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "वैराग्य",
+  "meaning": "(vairaagya) Detachment from worldly things.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "अनुशासन",
+  "meaning": "(anushaasan) Discipline.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "सहानुभूति",
+  "meaning": "(sahaanubhooti) Sympathy; empathy.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "आत्मनिर्भर",
+  "meaning": "(aatmanirbhar) Self-reliant.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "निष्ठा",
+  "meaning": "(nishtha) Loyalty; devotion.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "प्रतिबद्धता",
+  "meaning": "(pratibaddhata) Commitment.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "कर्तव्य",
+  "meaning": "(kartavya) Duty.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "संस्कृति",
+  "meaning": "(sanskriti) Culture.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "परंपरा",
+  "meaning": "(parampara) Tradition.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "सौंदर्य",
+  "meaning": "(saundarya) Beauty.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "विवेक",
+  "meaning": "(vivek) Wisdom; good judgement.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "धरोहर",
+  "meaning": "(dharohar) Heritage.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "उपलब्धि",
+  "meaning": "(upalabdhi) Achievement.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "आकांक्षा",
+  "meaning": "(aakaanksha) Aspiration; ambition.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "संघर्ष",
+  "meaning": "(sangharsh) Struggle.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "क्षमा",
+  "meaning": "(kshama) Forgiveness.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "मर्यादा",
+  "meaning": "(maryaada) Dignity; proper limits.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "सृजन",
+  "meaning": "(srijan) Creation; creativity.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "आस्था",
+  "meaning": "(aastha) Faith; belief.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "एकाग्रता",
+  "meaning": "(ekaagrata) Concentration.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "दृष्टिकोण",
+  "meaning": "(drishtikon) Point of view; perspective.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "प्रतिभा",
+  "meaning": "(pratibha) Talent.",
+  "level": 3
+ },
+ {
+  "lang": "hi",
+  "word": "नज़ाकत",
+  "meaning": "(nazaakat) Delicacy; grace.",
+  "level": 3
+ }
+]

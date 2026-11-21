@@ -1,0 +1,65 @@
+rules_version = '2';
+
+// BiLingo: each learner (anonymous or signed in) can read and write only
+// their own documents under users/{uid}. Everyone can read the shared content
+// packs, which only the server writes, and like counts, which move only with
+// the learner's own like. Nothing else is accessible.
+// Paste into Firebase console → Firestore Database → Rules, then Publish.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /contentPacks/{pack} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // Like counts. reelStats/{reel}.likes moves by exactly one, and only in
+    // the same write as the learner adding or removing their own
+    // reelStats/{reel}/likes/{uid}, so each learner counts once.
+    function statsPath(reel) {
+      return /databases/$(database)/documents/reelStats/$(reel);
+    }
+    function myLikePath(reel) {
+      return /databases/$(database)/documents/reelStats/$(reel)/likes/$(request.auth.uid);
+    }
+    function likesBefore(reel) {
+      return exists(statsPath(reel)) ? get(statsPath(reel)).data.likes : 0;
+    }
+
+    match /reelStats/{reel} {
+      allow read: if true;
+      allow create, update: if request.auth != null
+        && request.resource.data.keys().hasOnly(['likes', 'key'])
+        && request.resource.data.likes is int
+        && request.resource.data.likes >= 0
+        && (!('key' in request.resource.data)
+            || (request.resource.data.key is string
+                && request.resource.data.key.size() <= 300))
+        && (
+          (request.resource.data.likes == likesBefore(reel) + 1
+            && !exists(myLikePath(reel)) && existsAfter(myLikePath(reel)))
+          || (request.resource.data.likes == likesBefore(reel) - 1
+            && exists(myLikePath(reel)) && !existsAfter(myLikePath(reel)))
+        );
+      allow delete: if false;
+
+      match /likes/{uid} {
+        allow read: if request.auth != null && request.auth.uid == uid;
+        allow create: if request.auth != null && request.auth.uid == uid
+          && request.resource.data.keys().hasOnly(['at'])
+          && getAfter(statsPath(reel)).data.likes == likesBefore(reel) + 1;
+        allow delete: if request.auth != null && request.auth.uid == uid
+          && getAfter(statsPath(reel)).data.likes == likesBefore(reel) - 1;
+        allow update: if false;
+      }
+    }
+
+    match /users/{uid} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+
+      // readingSessions, daily and anything added later under the user.
+      match /{subcollection=**} {
+        allow read, write: if request.auth != null && request.auth.uid == uid;
+      }
+    }
+  }
+}

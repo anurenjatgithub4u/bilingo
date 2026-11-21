@@ -1,0 +1,3204 @@
+[
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "x = 5\nx = x + 2\nprint(x)",
+  "options": [
+   "7",
+   "5",
+   "2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "x starts at 5, then 2 is added."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "x = 3\nx = x + 4\nprint(x)",
+  "options": [
+   "7",
+   "3",
+   "4",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "x starts at 3, then 4 is added."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "x = 10\nx = x + 5\nprint(x)",
+  "options": [
+   "15",
+   "10",
+   "5",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "x starts at 10, then 5 is added."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "x = 7\nx = x + 8\nprint(x)",
+  "options": [
+   "15",
+   "7",
+   "8",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "x starts at 7, then 8 is added."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "x = 6\nx = x + 3\nprint(x)",
+  "options": [
+   "9",
+   "6",
+   "3",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "x starts at 6, then 3 is added."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "x = 9\nx = x + 1\nprint(x)",
+  "options": [
+   "10",
+   "9",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "x starts at 9, then 1 is added."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(3 * 4)",
+  "options": [
+   "12",
+   "34",
+   "3",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "* multiplies the two numbers."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(6 * 2)",
+  "options": [
+   "12",
+   "62",
+   "6",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "* multiplies the two numbers."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(5 * 5)",
+  "options": [
+   "25",
+   "55",
+   "5",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "* multiplies the two numbers."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(7 * 3)",
+  "options": [
+   "21",
+   "73",
+   "7",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "* multiplies the two numbers."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(8 * 2)",
+  "options": [
+   "16",
+   "82",
+   "8",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "* multiplies the two numbers."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(9 * 4)",
+  "options": [
+   "36",
+   "94",
+   "9",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "* multiplies the two numbers."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(\"sun\" + \"set\")",
+  "options": [
+   "sunset",
+   "sun set",
+   "sun",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "+ joins two strings with no space."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(\"rain\" + \"bow\")",
+  "options": [
+   "rainbow",
+   "rain bow",
+   "rain",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "+ joins two strings with no space."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(\"foot\" + \"ball\")",
+  "options": [
+   "football",
+   "foot ball",
+   "foot",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "+ joins two strings with no space."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(\"tea\" + \"pot\")",
+  "options": [
+   "teapot",
+   "tea pot",
+   "tea",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "+ joins two strings with no space."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(\"moon\" + \"light\")",
+  "options": [
+   "moonlight",
+   "moon light",
+   "moon",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "+ joins two strings with no space."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "a = 5\nif a > 3:\n    print(\"big\")\nelse:\n    print(\"small\")",
+  "options": [
+   "big",
+   "big small",
+   "a",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The condition is checked, and only one branch runs."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "a = 2\nif a > 8:\n    print(\"big\")\nelse:\n    print(\"small\")",
+  "options": [
+   "small",
+   "big small",
+   "a",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The condition is checked, and only one branch runs."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "a = 9\nif a > 4:\n    print(\"big\")\nelse:\n    print(\"small\")",
+  "options": [
+   "big",
+   "big small",
+   "a",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The condition is checked, and only one branch runs."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "a = 1\nif a > 7:\n    print(\"big\")\nelse:\n    print(\"small\")",
+  "options": [
+   "small",
+   "big small",
+   "a",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The condition is checked, and only one branch runs."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "a = 6\nif a > 6:\n    print(\"big\")\nelse:\n    print(\"small\")",
+  "options": [
+   "small",
+   "big small",
+   "a",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The condition is checked, and only one branch runs."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "for i in range(2):\n    print(i)",
+  "options": [
+   "0 1",
+   "2",
+   "1 2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "range(2) counts from 0 up to, not including, 2."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "for i in range(3):\n    print(i)",
+  "options": [
+   "0 1 2",
+   "3",
+   "1 2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "range(3) counts from 0 up to, not including, 3."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "for i in range(4):\n    print(i)",
+  "options": [
+   "0 1 2 3",
+   "4",
+   "1 2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "range(4) counts from 0 up to, not including, 4."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "for i in range(5):\n    print(i)",
+  "options": [
+   "0 1 2 3 4",
+   "5",
+   "1 2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "range(5) counts from 0 up to, not including, 5."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "word = \"hello\"\nprint(len(word))",
+  "options": [
+   "5",
+   "0",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "len() counts the characters in a string."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "word = \"python\"\nprint(len(word))",
+  "options": [
+   "6",
+   "0",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "len() counts the characters in a string."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "word = \"code\"\nprint(len(word))",
+  "options": [
+   "4",
+   "0",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "len() counts the characters in a string."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "word = \"phone\"\nprint(len(word))",
+  "options": [
+   "5",
+   "0",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "len() counts the characters in a string."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "word = \"ghost\"\nprint(len(word))",
+  "options": [
+   "5",
+   "0",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "len() counts the characters in a string."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "word = \"loop\"\nprint(len(word))",
+  "options": [
+   "4",
+   "0",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "len() counts the characters in a string."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(7 % 3)",
+  "options": [
+   "1",
+   "0",
+   "3",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "% gives the remainder after dividing."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(10 % 4)",
+  "options": [
+   "2",
+   "0",
+   "4",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "% gives the remainder after dividing."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(9 % 2)",
+  "options": [
+   "1",
+   "0",
+   "2",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "% gives the remainder after dividing."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(17 % 5)",
+  "options": [
+   "2",
+   "0",
+   "5",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "% gives the remainder after dividing."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(8 % 3)",
+  "options": [
+   "2",
+   "0",
+   "3",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "% gives the remainder after dividing."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "word = \"apple\"\nprint(word[0])",
+  "options": [
+   "a",
+   "apple",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Positions start at 0, so [0] is the first letter."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "word = \"tiger\"\nprint(word[0])",
+  "options": [
+   "t",
+   "tiger",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Positions start at 0, so [0] is the first letter."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "word = \"mango\"\nprint(word[0])",
+  "options": [
+   "m",
+   "mango",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Positions start at 0, so [0] is the first letter."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "word = \"river\"\nprint(word[0])",
+  "options": [
+   "r",
+   "river",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Positions start at 0, so [0] is the first letter."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "word = \"cloud\"\nprint(word[0])",
+  "options": [
+   "c",
+   "cloud",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Positions start at 0, so [0] is the first letter."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "nums = [1, 2, 3]\nprint([n * 2 for n in nums if n > 1])",
+  "options": [
+   "[4, 6]",
+   "[1, 2, 3]",
+   "[]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Keeps numbers above 1, then doubles each."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "nums = [2, 4, 6]\nprint([n * 2 for n in nums if n > 2])",
+  "options": [
+   "[8, 12]",
+   "[2, 4, 6]",
+   "[]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Keeps numbers above 2, then doubles each."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "nums = [3, 5, 7]\nprint([n * 2 for n in nums if n > 3])",
+  "options": [
+   "[10, 14]",
+   "[3, 5, 7]",
+   "[]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Keeps numbers above 3, then doubles each."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "nums = [1, 5, 9]\nprint([n * 2 for n in nums if n > 1])",
+  "options": [
+   "[10, 18]",
+   "[1, 5, 9]",
+   "[]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Keeps numbers above 1, then doubles each."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "ages = {\"ann\": 20, \"bob\": 30}\nprint(ages.get(\"cat\", 0))",
+  "options": [
+   "0",
+   "None",
+   "20",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": ".get() returns the default when the key is missing."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "ages = {\"ann\": 11, \"bob\": 12}\nprint(ages.get(\"cat\", -1))",
+  "options": [
+   "-1",
+   "None",
+   "11",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": ".get() returns the default when the key is missing."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "ages = {\"ann\": 40, \"bob\": 50}\nprint(ages.get(\"cat\", 9))",
+  "options": [
+   "9",
+   "None",
+   "40",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": ".get() returns the default when the key is missing."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "ages = {\"ann\": 5, \"bob\": 6}\nprint(ages.get(\"cat\", 7))",
+  "options": [
+   "7",
+   "None",
+   "5",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": ".get() returns the default when the key is missing."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "nums = [10, 20, 30, 40, 50]\nprint(nums[1:3])",
+  "options": [
+   "[20, 30]",
+   "[10, 20]",
+   "[50]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "A slice stops before the end position."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "nums = [10, 20, 30, 40, 50]\nprint(nums[2:4])",
+  "options": [
+   "[30, 40]",
+   "[10, 20]",
+   "[50]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "A slice stops before the end position."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "nums = [10, 20, 30, 40, 50]\nprint(nums[3:5])",
+  "options": [
+   "[40, 50]",
+   "[10, 20]",
+   "[50]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "A slice stops before the end position."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "nums = [10, 20, 30, 40, 50]\nprint(nums[1:4])",
+  "options": [
+   "[20, 30, 40]",
+   "[10, 20]",
+   "[50]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "A slice stops before the end position."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "def f(a, b=2):\n    return a * b\nprint(f(3))",
+  "options": [
+   "6",
+   "3",
+   "2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "b uses its default value of 2."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "def f(a, b=5):\n    return a * b\nprint(f(4))",
+  "options": [
+   "20",
+   "4",
+   "5",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "b uses its default value of 5."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "def f(a, b=3):\n    return a * b\nprint(f(6))",
+  "options": [
+   "18",
+   "6",
+   "3",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "b uses its default value of 3."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "def f(a, b=7):\n    return a * b\nprint(f(2))",
+  "options": [
+   "14",
+   "2",
+   "7",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "b uses its default value of 7."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(sorted([3, 1, 2], reverse=True))",
+  "options": [
+   "[3, 2, 1]",
+   "[3, 1, 2]",
+   "None",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "reverse=True sorts from largest to smallest."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(sorted([5, 9, 7], reverse=True))",
+  "options": [
+   "[9, 7, 5]",
+   "[5, 9, 7]",
+   "None",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "reverse=True sorts from largest to smallest."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(sorted([8, 2, 4], reverse=True))",
+  "options": [
+   "[8, 4, 2]",
+   "[8, 2, 4]",
+   "None",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "reverse=True sorts from largest to smallest."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(sorted([1, 6, 3], reverse=True))",
+  "options": [
+   "[6, 3, 1]",
+   "[1, 6, 3]",
+   "None",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "reverse=True sorts from largest to smallest."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(\"-\".join([\"a\", \"b\", \"c\"]))",
+  "options": [
+   "a-b-c",
+   "abc",
+   "a b c",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "join puts the string between the items."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(\"-\".join([\"x\", \"y\", \"z\"]))",
+  "options": [
+   "x-y-z",
+   "xyz",
+   "x y z",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "join puts the string between the items."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(\"-\".join([\"1\", \"2\", \"3\"]))",
+  "options": [
+   "1-2-3",
+   "123",
+   "1 2 3",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "join puts the string between the items."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(\"-\".join([\"red\", \"tan\", \"sky\"]))",
+  "options": [
+   "red-tan-sky",
+   "redtansky",
+   "red tan sky",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "join puts the string between the items."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "n = 3\ntotal = 0\nwhile n > 0:\n    total += n\n    n -= 1\nprint(total)",
+  "options": [
+   "6",
+   "3",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The loop adds 3, then each smaller number down to 1."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "n = 4\ntotal = 0\nwhile n > 0:\n    total += n\n    n -= 1\nprint(total)",
+  "options": [
+   "10",
+   "4",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The loop adds 4, then each smaller number down to 1."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "n = 5\ntotal = 0\nwhile n > 0:\n    total += n\n    n -= 1\nprint(total)",
+  "options": [
+   "15",
+   "5",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The loop adds 5, then each smaller number down to 1."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "n = 6\ntotal = 0\nwhile n > 0:\n    total += n\n    n -= 1\nprint(total)",
+  "options": [
+   "21",
+   "6",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The loop adds 6, then each smaller number down to 1."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "a = [1, 2]\nb = a\nb.append(7)\nprint(len(a))",
+  "options": [
+   "3",
+   "2",
+   "7",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "b is the same list as a, so a grows too."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "a = [1, 2]\nb = a\nb.append(9)\nprint(len(a))",
+  "options": [
+   "3",
+   "2",
+   "9",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "b is the same list as a, so a grows too."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "def add(item, box=[]):\n    box.append(item)\n    return box\n\nadd(1)\nprint(add(2))",
+  "options": [
+   "[1, 2]",
+   "[2]",
+   "[1]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The default list is made once and shared between calls."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "def add(item, box=[]):\n    box.append(item)\n    return box\n\nadd(3)\nprint(add(4))",
+  "options": [
+   "[3, 4]",
+   "[4]",
+   "[3]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The default list is made once and shared between calls."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "def add(item, box=[]):\n    box.append(item)\n    return box\n\nadd(5)\nprint(add(6))",
+  "options": [
+   "[5, 6]",
+   "[6]",
+   "[5]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The default list is made once and shared between calls."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "def add(item, box=[]):\n    box.append(item)\n    return box\n\nadd(7)\nprint(add(8))",
+  "options": [
+   "[7, 8]",
+   "[8]",
+   "[7]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The default list is made once and shared between calls."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "def make():\n    n = 0\n    def step():\n        nonlocal n\n        n += 1\n        return n\n    return step\n\ns = make()\ns()\nprint(s())",
+  "options": [
+   "2",
+   "0",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The inner function keeps n between calls: a closure."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "def make():\n    n = 1\n    def step():\n        nonlocal n\n        n += 2\n        return n\n    return step\n\ns = make()\ns()\nprint(s())",
+  "options": [
+   "5",
+   "1",
+   "2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The inner function keeps n between calls: a closure."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "def make():\n    n = 2\n    def step():\n        nonlocal n\n        n += 3\n        return n\n    return step\n\ns = make()\ns()\nprint(s())",
+  "options": [
+   "8",
+   "2",
+   "3",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The inner function keeps n between calls: a closure."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(sum(x * x for x in range(3)))",
+  "options": [
+   "5",
+   "3",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Adds the squares of 0 up to 3 minus 1."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(sum(x * x for x in range(4)))",
+  "options": [
+   "14",
+   "4",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Adds the squares of 0 up to 4 minus 1."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(sum(x * x for x in range(5)))",
+  "options": [
+   "30",
+   "5",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Adds the squares of 0 up to 5 minus 1."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(sum(x * x for x in range(6)))",
+  "options": [
+   "55",
+   "6",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Adds the squares of 0 up to 6 minus 1."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(len({1, 2, 1, 3, 2}))",
+  "options": [
+   "3",
+   "5",
+   "2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "A set keeps each value only once."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(len({4, 5, 4, 6, 5}))",
+  "options": [
+   "3",
+   "5",
+   "2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "A set keeps each value only once."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(len({7, 8, 7, 9, 8}))",
+  "options": [
+   "3",
+   "5",
+   "2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "A set keeps each value only once."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "def f(*args, **kw):\n    return len(args) + len(kw)\nprint(f(1, 2, x=3))",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Two positional arguments plus one keyword argument."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "def f(*args, **kw):\n    return len(args) + len(kw)\nprint(f(4, 5, x=6))",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Two positional arguments plus one keyword argument."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "def f(*args, **kw):\n    return len(args) + len(kw)\nprint(f(7, 8, x=9))",
+  "options": [
+   "3",
+   "2",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Two positional arguments plus one keyword argument."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "try:\n    print(1 / 0)\nexcept ZeroDivisionError:\n    print(\"oops\")\nfinally:\n    print(\"done\")",
+  "options": [
+   "oops done",
+   "oops",
+   "done",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "except handles the error, and finally always runs."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "try:\n    print(5 / 0)\nexcept ZeroDivisionError:\n    print(\"oops\")\nfinally:\n    print(\"done\")",
+  "options": [
+   "oops done",
+   "oops",
+   "done",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "except handles the error, and finally always runs."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "class A:\n    n = 1\n\nx = A()\ny = A()\nx.n = 2\nprint(y.n)",
+  "options": [
+   "1",
+   "2",
+   "None",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "x.n creates x's own value; y still reads the class value."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "class A:\n    n = 3\n\nx = A()\ny = A()\nx.n = 9\nprint(y.n)",
+  "options": [
+   "3",
+   "9",
+   "None",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "x.n creates x's own value; y still reads the class value."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "class A:\n    n = 5\n\nx = A()\ny = A()\nx.n = 7\nprint(y.n)",
+  "options": [
+   "5",
+   "7",
+   "None",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "x.n creates x's own value; y still reads the class value."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(list(map(lambda x: x + 1, [1, 2, 3])))",
+  "options": [
+   "[2, 3, 4]",
+   "[1, 2, 3]",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "map applies the function to each item."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(list(map(lambda x: x + 2, [1, 2, 3])))",
+  "options": [
+   "[3, 4, 5]",
+   "[1, 2, 3]",
+   "2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "map applies the function to each item."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(list(map(lambda x: x + 5, [1, 2, 3])))",
+  "options": [
+   "[6, 7, 8]",
+   "[1, 2, 3]",
+   "5",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "map applies the function to each item."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "What does this print?",
+  "prompt": "What is the output?",
+  "code": "print(list(map(lambda x: x + 10, [1, 2, 3])))",
+  "options": [
+   "[11, 12, 13]",
+   "[1, 2, 3]",
+   "10",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "map applies the function to each item."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "___ x in range(3):\n    print(x)",
+  "options": [
+   "for",
+   "if",
+   "while",
+   "def"
+  ],
+  "answer": 0,
+  "explanation": "for loops over each value."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "name = \"ann\"\n___(name)",
+  "options": [
+   "print",
+   "echo",
+   "write",
+   "log"
+  ],
+  "answer": 0,
+  "explanation": "print shows a value."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "x = 5\n___ x > 3:\n    print(\"yes\")",
+  "options": [
+   "if",
+   "for",
+   "def",
+   "when"
+  ],
+  "answer": 0,
+  "explanation": "if runs code when a condition is true."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "___ double(n):\n    return n * 2\nprint(double(4))",
+  "options": [
+   "def",
+   "function",
+   "fn",
+   "func"
+  ],
+  "answer": 0,
+  "explanation": "def creates a function."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "nums = [1, 2]\nnums.___(3)\nprint(nums)",
+  "options": [
+   "append",
+   "push",
+   "add",
+   "insert"
+  ],
+  "answer": 0,
+  "explanation": "append adds to the end of a list."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "def f():\n    ___ 7\nprint(f())",
+  "options": [
+   "return",
+   "yield",
+   "give",
+   "print"
+  ],
+  "answer": 0,
+  "explanation": "return sends a value back."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "class Dog:\n    def ___(self, name):\n        self.name = name\nprint(Dog(\"rex\").name)",
+  "options": [
+   "__init__",
+   "init",
+   "new",
+   "create"
+  ],
+  "answer": 0,
+  "explanation": "__init__ sets up a new object."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "def gen():\n    ___ 1\n    ___ 2\nprint(list(gen()))",
+  "options": [
+   "yield",
+   "return",
+   "give",
+   "emit"
+  ],
+  "answer": 0,
+  "explanation": "yield produces values one at a time."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "___ open is not None:\n    print(\"ok\")",
+  "options": [
+   "if",
+   "with",
+   "try",
+   "for"
+  ],
+  "answer": 0,
+  "explanation": "if checks the condition."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "Find the bug",
+  "prompt": "Which line has the bug?",
+  "code": "x = 5\nif x > 3\n    print(\"big\")",
+  "options": [
+   "Line 2",
+   "Line 1",
+   "Line 3"
+  ],
+  "answer": 0,
+  "explanation": "An if line needs a colon at the end."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "Find the bug",
+  "prompt": "Which line has the bug?",
+  "code": "name = \"ann\nprint(name)",
+  "options": [
+   "Line 1",
+   "Line 2"
+  ],
+  "answer": 0,
+  "explanation": "The string is missing its closing quote."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "Find the bug",
+  "prompt": "Which line has the bug?",
+  "code": "def add(a, b):\n    a + b\nprint(add(1, 2))",
+  "options": [
+   "Line 2",
+   "Line 1",
+   "Line 3"
+  ],
+  "answer": 0,
+  "explanation": "Without return the function gives back None."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "Find the bug",
+  "prompt": "Which line has the bug?",
+  "code": "nums = [1, 2, 3]\nprint(nums[3])",
+  "options": [
+   "Line 2",
+   "Line 1"
+  ],
+  "answer": 0,
+  "explanation": "Positions start at 0, so the last is 2."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "Find the bug",
+  "prompt": "Which line has the bug?",
+  "code": "class A:\n    def hi():\n        return 1\nprint(A().hi())",
+  "options": [
+   "Line 2",
+   "Line 1",
+   "Line 3",
+   "Line 4"
+  ],
+  "answer": 0,
+  "explanation": "Methods need self as the first parameter."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "Find the bug",
+  "prompt": "Which line has the bug?",
+  "code": "total = 0\ndef add():\n    total += 1\nadd()\nprint(total)",
+  "options": [
+   "Line 3",
+   "Line 1",
+   "Line 2",
+   "Line 4"
+  ],
+  "answer": 0,
+  "explanation": "Changing an outer variable needs global."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "Order the lines",
+  "prompt": "Put the lines in order so it prints 5.",
+  "lines": [
+   "x = 2",
+   "y = 3",
+   "print(x + y)"
+  ],
+  "explanation": "It prints 5."
+ },
+ {
+  "subject": "python",
+  "difficulty": 1,
+  "kind": "Order the lines",
+  "prompt": "Put the lines in order so it prints hi ann.",
+  "lines": [
+   "name = \"ann\"",
+   "greeting = \"hi \" + name",
+   "print(greeting)"
+  ],
+  "explanation": "It prints hi ann."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "Order the lines",
+  "prompt": "Put the lines in order so it prints 8.",
+  "lines": [
+   "def double(n):",
+   "    return n * 2",
+   "print(double(4))"
+  ],
+  "explanation": "It prints 8."
+ },
+ {
+  "subject": "python",
+  "difficulty": 2,
+  "kind": "Order the lines",
+  "prompt": "Put the lines in order so it prints 6.",
+  "lines": [
+   "total = 0",
+   "for n in [1, 2, 3]:",
+   "    total += n",
+   "print(total)"
+  ],
+  "explanation": "It prints 6."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "Order the lines",
+  "prompt": "Put the lines in order so it prints rex.",
+  "lines": [
+   "class Dog:",
+   "    def __init__(self, name):",
+   "        self.name = name",
+   "print(Dog(\"rex\").name)"
+  ],
+  "explanation": "It prints rex."
+ },
+ {
+  "subject": "python",
+  "difficulty": 3,
+  "kind": "Order the lines",
+  "prompt": "Put the lines in order so it prints [1, 2].",
+  "lines": [
+   "def gen():",
+   "    yield 1",
+   "    yield 2",
+   "print(list(gen()))"
+  ],
+  "explanation": "It prints [1, 2]."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "let x = 5;\nx = x + 2;\nconsole.log(x);",
+  "options": [
+   "7",
+   "5",
+   "2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "x starts at 5, then 2 is added."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "let x = 3;\nx = x + 4;\nconsole.log(x);",
+  "options": [
+   "7",
+   "3",
+   "4",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "x starts at 3, then 4 is added."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "let x = 10;\nx = x + 5;\nconsole.log(x);",
+  "options": [
+   "15",
+   "10",
+   "5",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "x starts at 10, then 5 is added."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "let x = 7;\nx = x + 8;\nconsole.log(x);",
+  "options": [
+   "15",
+   "7",
+   "8",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "x starts at 7, then 8 is added."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "let x = 6;\nx = x + 3;\nconsole.log(x);",
+  "options": [
+   "9",
+   "6",
+   "3",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "x starts at 6, then 3 is added."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "let a = \"5\";\nconsole.log(a + 2);",
+  "options": [
+   "52",
+   "5",
+   "2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "A string + a number joins them as text."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "let a = \"1\";\nconsole.log(a + 9);",
+  "options": [
+   "19",
+   "1",
+   "9",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "A string + a number joins them as text."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "let a = \"3\";\nconsole.log(a + 3);",
+  "options": [
+   "33",
+   "3",
+   "Error",
+   "0"
+  ],
+  "answer": 0,
+  "explanation": "A string + a number joins them as text."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "let a = \"7\";\nconsole.log(a + 1);",
+  "options": [
+   "71",
+   "7",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "A string + a number joins them as text."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "let a = \"2\";\nconsole.log(a + 8);",
+  "options": [
+   "28",
+   "2",
+   "8",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "A string + a number joins them as text."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "console.log(3 * 4);",
+  "options": [
+   "12",
+   "34",
+   "3",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "* multiplies the two numbers."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "console.log(6 * 2);",
+  "options": [
+   "12",
+   "62",
+   "6",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "* multiplies the two numbers."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "console.log(5 * 5);",
+  "options": [
+   "25",
+   "55",
+   "5",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "* multiplies the two numbers."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "console.log(7 * 3);",
+  "options": [
+   "21",
+   "73",
+   "7",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "* multiplies the two numbers."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "console.log(8 * 2);",
+  "options": [
+   "16",
+   "82",
+   "8",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "* multiplies the two numbers."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const a = 5;\nif (a > 3) {\n  console.log(\"big\");\n} else {\n  console.log(\"small\");\n}",
+  "options": [
+   "big",
+   "big small",
+   "a",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Only one branch of the if runs."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const a = 2;\nif (a > 8) {\n  console.log(\"big\");\n} else {\n  console.log(\"small\");\n}",
+  "options": [
+   "small",
+   "big small",
+   "a",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Only one branch of the if runs."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const a = 9;\nif (a > 4) {\n  console.log(\"big\");\n} else {\n  console.log(\"small\");\n}",
+  "options": [
+   "big",
+   "big small",
+   "a",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Only one branch of the if runs."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const a = 1;\nif (a > 7) {\n  console.log(\"big\");\n} else {\n  console.log(\"small\");\n}",
+  "options": [
+   "small",
+   "big small",
+   "a",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Only one branch of the if runs."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "for (let i = 0; i < 2; i++) {\n  console.log(i);\n}",
+  "options": [
+   "0 1",
+   "2",
+   "1 2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The loop runs while i is below 2, starting at 0."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "for (let i = 0; i < 3; i++) {\n  console.log(i);\n}",
+  "options": [
+   "0 1 2",
+   "3",
+   "1 2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The loop runs while i is below 3, starting at 0."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "for (let i = 0; i < 4; i++) {\n  console.log(i);\n}",
+  "options": [
+   "0 1 2 3",
+   "4",
+   "1 2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The loop runs while i is below 4, starting at 0."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "for (let i = 0; i < 5; i++) {\n  console.log(i);\n}",
+  "options": [
+   "0 1 2 3 4",
+   "5",
+   "1 2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The loop runs while i is below 5, starting at 0."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const word = \"hello\";\nconsole.log(word.length);",
+  "options": [
+   "5",
+   "0",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": ".length counts the characters."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const word = \"script\";\nconsole.log(word.length);",
+  "options": [
+   "6",
+   "0",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": ".length counts the characters."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const word = \"code\";\nconsole.log(word.length);",
+  "options": [
+   "4",
+   "0",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": ".length counts the characters."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const word = \"phone\";\nconsole.log(word.length);",
+  "options": [
+   "5",
+   "0",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": ".length counts the characters."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const word = \"ghost\";\nconsole.log(word.length);",
+  "options": [
+   "5",
+   "0",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": ".length counts the characters."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "console.log(7 % 3);",
+  "options": [
+   "1",
+   "0",
+   "3",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "% gives the remainder after dividing."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "console.log(10 % 4);",
+  "options": [
+   "2",
+   "0",
+   "4",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "% gives the remainder after dividing."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "console.log(9 % 2);",
+  "options": [
+   "1",
+   "0",
+   "2",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "% gives the remainder after dividing."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "console.log(17 % 5);",
+  "options": [
+   "2",
+   "0",
+   "5",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "% gives the remainder after dividing."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "console.log(5 === \"5\");\nconsole.log(5 == \"5\");",
+  "options": [
+   "false true",
+   "true true",
+   "false false",
+   "true false"
+  ],
+  "answer": 0,
+  "explanation": "=== checks the type too; == converts first."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const r = [1, 2, 3]\n  .map(n => n * 2)\n  .filter(n => n > 2);\nconsole.log(r);",
+  "options": [
+   "[4, 6]",
+   "[1, 2, 3]",
+   "[]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Doubles every number, then keeps those above 2."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const r = [2, 3, 5]\n  .map(n => n * 2)\n  .filter(n => n > 3);\nconsole.log(r);",
+  "options": [
+   "[4, 6, 10]",
+   "[2, 3, 5]",
+   "[]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Doubles every number, then keeps those above 3."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const r = [1, 4, 6]\n  .map(n => n * 2)\n  .filter(n => n > 4);\nconsole.log(r);",
+  "options": [
+   "[8, 12]",
+   "[1, 4, 6]",
+   "[]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Doubles every number, then keeps those above 4."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const r = [3, 4, 8]\n  .map(n => n * 2)\n  .filter(n => n > 4);\nconsole.log(r);",
+  "options": [
+   "[6, 8, 16]",
+   "[3, 4, 8]",
+   "[]",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Doubles every number, then keeps those above 4."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const nums = [1, 2, 3];\nconsole.log(nums.reduce((s, n) => s + n, 0));",
+  "options": [
+   "6",
+   "1",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "reduce adds each number to the running total."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const nums = [4, 5, 6];\nconsole.log(nums.reduce((s, n) => s + n, 0));",
+  "options": [
+   "15",
+   "4",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "reduce adds each number to the running total."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const nums = [2, 4, 8];\nconsole.log(nums.reduce((s, n) => s + n, 0));",
+  "options": [
+   "14",
+   "2",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "reduce adds each number to the running total."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const nums = [3, 3, 9];\nconsole.log(nums.reduce((s, n) => s + n, 0));",
+  "options": [
+   "15",
+   "3",
+   "0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "reduce adds each number to the running total."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const u = { name: \"ann\", age: 20 };\nconst { age } = u;\nconsole.log(age + 1);",
+  "options": [
+   "21",
+   "20",
+   "undefined",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Destructuring pulls age out of the object."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const u = { name: \"ann\", age: 30 };\nconst { age } = u;\nconsole.log(age + 5);",
+  "options": [
+   "35",
+   "30",
+   "undefined",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Destructuring pulls age out of the object."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const u = { name: \"ann\", age: 11 };\nconst { age } = u;\nconsole.log(age + 2);",
+  "options": [
+   "13",
+   "11",
+   "undefined",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Destructuring pulls age out of the object."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const a = [1, 2];\nconst b = [...a, 3];\nconsole.log(a.length, b.length);",
+  "options": [
+   "2 3",
+   "3 3",
+   "2 2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Spread copies into a new array, so a keeps its length."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const a = [1, 2];\nconst b = [...a, 7];\nconsole.log(a.length, b.length);",
+  "options": [
+   "2 3",
+   "3 3",
+   "2 2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Spread copies into a new array, so a keeps its length."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const a = [1, 2];\nconst b = [...a, 9];\nconsole.log(a.length, b.length);",
+  "options": [
+   "2 3",
+   "3 3",
+   "2 2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Spread copies into a new array, so a keeps its length."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "function f(a, b = 2) {\n  return a * b;\n}\nconsole.log(f(3));",
+  "options": [
+   "6",
+   "3",
+   "NaN",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "b falls back to its default of 2."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "function f(a, b = 5) {\n  return a * b;\n}\nconsole.log(f(4));",
+  "options": [
+   "20",
+   "4",
+   "NaN",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "b falls back to its default of 5."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "function f(a, b = 3) {\n  return a * b;\n}\nconsole.log(f(6));",
+  "options": [
+   "18",
+   "6",
+   "NaN",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "b falls back to its default of 3."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const s = \"abc\";\nconsole.log(s.split(\"\").reverse().join(\"\"));",
+  "options": [
+   "cba",
+   "abc",
+   "undefined",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Splits into letters, reverses them, joins them again."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const s = \"code\";\nconsole.log(s.split(\"\").reverse().join(\"\"));",
+  "options": [
+   "edoc",
+   "code",
+   "undefined",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Splits into letters, reverses them, joins them again."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const s = \"moon\";\nconsole.log(s.split(\"\").reverse().join(\"\"));",
+  "options": [
+   "noom",
+   "moon",
+   "undefined",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Splits into letters, reverses them, joins them again."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const s = \"star\";\nconsole.log(s.split(\"\").reverse().join(\"\"));",
+  "options": [
+   "rats",
+   "star",
+   "undefined",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Splits into letters, reverses them, joins them again."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const a = [1, 2];\nconst b = a;\nb.push(7);\nconsole.log(a.length);",
+  "options": [
+   "3",
+   "2",
+   "7",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "b points to the same array, so a grows too."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const a = [1, 2];\nconst b = a;\nb.push(9);\nconsole.log(a.length);",
+  "options": [
+   "3",
+   "2",
+   "9",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "b points to the same array, so a grows too."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "for (var i = 0; i < 2; i++) {\n  setTimeout(() => console.log(i), 0);\n}",
+  "options": [
+   "2 2",
+   "0 1",
+   "0 0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "var is shared, and the timers run after the loop ends."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "for (var i = 0; i < 3; i++) {\n  setTimeout(() => console.log(i), 0);\n}",
+  "options": [
+   "3 3 3",
+   "0 1",
+   "0 0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "var is shared, and the timers run after the loop ends."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "for (var i = 0; i < 4; i++) {\n  setTimeout(() => console.log(i), 0);\n}",
+  "options": [
+   "4 4 4 4",
+   "0 1",
+   "0 0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "var is shared, and the timers run after the loop ends."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "for (let i = 0; i < 2; i++) {\n  setTimeout(() => console.log(i), 0);\n}",
+  "options": [
+   "0 1",
+   "2 2",
+   "0 0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "let makes a new i for each loop."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "for (let i = 0; i < 3; i++) {\n  setTimeout(() => console.log(i), 0);\n}",
+  "options": [
+   "0 1 2",
+   "3 3",
+   "0 0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "let makes a new i for each loop."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "for (let i = 0; i < 4; i++) {\n  setTimeout(() => console.log(i), 0);\n}",
+  "options": [
+   "0 1 2 3",
+   "4 4",
+   "0 0",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "let makes a new i for each loop."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "function make() {\n  let n = 0;\n  return () => (n += 1);\n}\nconst s = make();\ns();\nconsole.log(s());",
+  "options": [
+   "2",
+   "0",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The inner function keeps n between calls: a closure."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "function make() {\n  let n = 1;\n  return () => (n += 2);\n}\nconst s = make();\ns();\nconsole.log(s());",
+  "options": [
+   "5",
+   "1",
+   "2",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The inner function keeps n between calls: a closure."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "function make() {\n  let n = 2;\n  return () => (n += 3);\n}\nconst s = make();\ns();\nconsole.log(s());",
+  "options": [
+   "8",
+   "2",
+   "3",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "The inner function keeps n between calls: a closure."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "console.log(\"a\");\nsetTimeout(() => console.log(\"b\"), 0);\nPromise.resolve().then(() => console.log(\"c\"));\nconsole.log(\"d\");",
+  "options": [
+   "a d c b",
+   "a b c d",
+   "a d b c",
+   "a c d b"
+  ],
+  "answer": 0,
+  "explanation": "Sync code first, then promises, then timers."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "console.log(typeof null, typeof 1);",
+  "options": [
+   "object number",
+   "null number",
+   "object object",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "typeof null is \"object\", a famous JavaScript quirk."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "console.log(typeof null, typeof 5);",
+  "options": [
+   "object number",
+   "null number",
+   "object object",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "typeof null is \"object\", a famous JavaScript quirk."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "class A {\n  n = 1;\n  get() {\n    return this.n;\n  }\n}\nconst f = new A().get;\ntry {\n  console.log(f());\n} catch {\n  console.log(\"lost\");\n}",
+  "options": [
+   "lost",
+   "1",
+   "undefined",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Detached from its object, the method loses this."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "class A {\n  n = 7;\n  get() {\n    return this.n;\n  }\n}\nconst f = new A().get;\ntry {\n  console.log(f());\n} catch {\n  console.log(\"lost\");\n}",
+  "options": [
+   "lost",
+   "7",
+   "undefined",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Detached from its object, the method loses this."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const m = new Map([[\"a\", 1]]);\nm.set(\"a\", 2);\nconsole.log(m.size, m.get(\"a\"));",
+  "options": [
+   "1 2",
+   "2 2",
+   "1 1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Setting the same key replaces its value."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const m = new Map([[\"a\", 5]]);\nm.set(\"a\", 9);\nconsole.log(m.size, m.get(\"a\"));",
+  "options": [
+   "1 9",
+   "2 9",
+   "1 5",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Setting the same key replaces its value."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "const m = new Map([[\"a\", 3]]);\nm.set(\"a\", 4);\nconsole.log(m.size, m.get(\"a\"));",
+  "options": [
+   "1 4",
+   "2 4",
+   "1 3",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Setting the same key replaces its value."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "console.log([...\"hello\"].filter((c, i, a) => a.indexOf(c) === i).length);",
+  "options": [
+   "4",
+   "0",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Keeps only the first time each letter appears."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "console.log([...\"banana\"].filter((c, i, a) => a.indexOf(c) === i).length);",
+  "options": [
+   "3",
+   "0",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Keeps only the first time each letter appears."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "What does this log?",
+  "prompt": "What is the output?",
+  "code": "console.log([...\"level\"].filter((c, i, a) => a.indexOf(c) === i).length);",
+  "options": [
+   "3",
+   "0",
+   "1",
+   "Error"
+  ],
+  "answer": 0,
+  "explanation": "Keeps only the first time each letter appears."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "___ x = 5;\nconsole.log(x);",
+  "options": [
+   "let",
+   "int",
+   "var x:",
+   "def"
+  ],
+  "answer": 0,
+  "explanation": "let declares a variable."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "console.___(\"hi\");",
+  "options": [
+   "log",
+   "print",
+   "echo",
+   "write"
+  ],
+  "answer": 0,
+  "explanation": "console.log prints a value."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "const x = 5;\n___ (x > 3) {\n  console.log(\"yes\");\n}",
+  "options": [
+   "if",
+   "for",
+   "when",
+   "case"
+  ],
+  "answer": 0,
+  "explanation": "if runs code when a condition is true."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "___ double(n) {\n  return n * 2;\n}\nconsole.log(double(4));",
+  "options": [
+   "function",
+   "def",
+   "fn",
+   "func"
+  ],
+  "answer": 0,
+  "explanation": "function creates a function."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "const a = [1, 2];\na.___(3);\nconsole.log(a);",
+  "options": [
+   "push",
+   "append",
+   "add",
+   "insert"
+  ],
+  "answer": 0,
+  "explanation": "push adds to the end of an array."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "const f = (n) ___ n + 1;\nconsole.log(f(1));",
+  "options": [
+   "=>",
+   "->",
+   "==",
+   ":="
+  ],
+  "answer": 0,
+  "explanation": "=> makes an arrow function."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "async function f() {\n  const v = ___ Promise.resolve(3);\n  console.log(v);\n}\nf();",
+  "options": [
+   "await",
+   "yield",
+   "async",
+   "then"
+  ],
+  "answer": 0,
+  "explanation": "await waits for a promise."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "class A {\n  ___() {\n    this.n = 1;\n  }\n}\nconsole.log(new A().n);",
+  "options": [
+   "constructor",
+   "init",
+   "__init__",
+   "create"
+  ],
+  "answer": 0,
+  "explanation": "constructor sets up a new object."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "Fill the blank",
+  "prompt": "Which word completes the code?",
+  "code": "const o = { a: 1 };\nconsole.log(Object.___(o));",
+  "options": [
+   "keys",
+   "props",
+   "names",
+   "list"
+  ],
+  "answer": 0,
+  "explanation": "Object.keys lists the property names."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "Find the bug",
+  "prompt": "Which line has the bug?",
+  "code": "const x = 5;\nx = 6;\nconsole.log(x);",
+  "options": [
+   "Line 1",
+   "Line 2",
+   "Line 3"
+  ],
+  "answer": 0,
+  "explanation": "A const cannot be reassigned; use let."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "Find the bug",
+  "prompt": "Which line has the bug?",
+  "code": "let name = \"ann;\nconsole.log(name);",
+  "options": [
+   "Line 1",
+   "Line 2"
+  ],
+  "answer": 0,
+  "explanation": "The string is missing its closing quote."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "Find the bug",
+  "prompt": "Which line has the bug?",
+  "code": "function add(a, b) {\n  a + b;\n}\nconsole.log(add(1, 2));",
+  "options": [
+   "Line 2",
+   "Line 1",
+   "Line 3",
+   "Line 4"
+  ],
+  "answer": 0,
+  "explanation": "Without return the function gives undefined."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "Find the bug",
+  "prompt": "Which line has the bug?",
+  "code": "const a = [1, 2, 3];\nconsole.log(a.size);",
+  "options": [
+   "Line 2",
+   "Line 1"
+  ],
+  "answer": 0,
+  "explanation": "Arrays use .length, not .size."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "Find the bug",
+  "prompt": "Which line has the bug?",
+  "code": "async function f() {\n  return 1;\n}\nconsole.log(f() + 1);",
+  "options": [
+   "Line 4",
+   "Line 1",
+   "Line 2",
+   "Line 3"
+  ],
+  "answer": 0,
+  "explanation": "An async function gives a promise, so wait for it."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "Find the bug",
+  "prompt": "Which line has the bug?",
+  "code": "const o = {\n  n: 1,\n  get: () => this.n,\n};\nconsole.log(o.get());",
+  "options": [
+   "Line 3",
+   "Line 1",
+   "Line 2",
+   "Line 4"
+  ],
+  "answer": 0,
+  "explanation": "Arrow functions have no this of their own."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "Order the lines",
+  "prompt": "Put the lines in order so it prints 5.",
+  "lines": [
+   "let x = 2;",
+   "let y = 3;",
+   "console.log(x + y);"
+  ],
+  "explanation": "It prints 5."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 1,
+  "kind": "Order the lines",
+  "prompt": "Put the lines in order so it prints hi ann.",
+  "lines": [
+   "const name = \"ann\";",
+   "const hi = \"hi \" + name;",
+   "console.log(hi);"
+  ],
+  "explanation": "It prints hi ann."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "Order the lines",
+  "prompt": "Put the lines in order so it prints 8.",
+  "lines": [
+   "function double(n) {",
+   "  return n * 2;",
+   "}",
+   "console.log(double(4));"
+  ],
+  "explanation": "It prints 8."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 2,
+  "kind": "Order the lines",
+  "prompt": "Put the lines in order so it prints 6.",
+  "lines": [
+   "let total = 0;",
+   "for (const n of [1, 2, 3]) {",
+   "  total += n;",
+   "}",
+   "console.log(total);"
+  ],
+  "explanation": "It prints 6."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "Order the lines",
+  "prompt": "Put the lines in order so it prints rex.",
+  "lines": [
+   "class Dog {",
+   "  name = \"rex\";",
+   "}",
+   "console.log(new Dog().name);"
+  ],
+  "explanation": "It prints rex."
+ },
+ {
+  "subject": "javascript",
+  "difficulty": 3,
+  "kind": "Order the lines",
+  "prompt": "Put the lines in order so it prints 3.",
+  "lines": [
+   "async function f() {",
+   "  const v = await Promise.resolve(3);",
+   "  console.log(v);",
+   "}",
+   "f();"
+  ],
+  "explanation": "It prints 3."
+ }
+]

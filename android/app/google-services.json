@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "133741095052",
+    "project_id": "microlearn-e58c9",
+    "storage_bucket": "microlearn-e58c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133741095052:android:73fb475b991f41cbd7f3a9",
+        "android_client_info": {
+          "package_name": "com.dmonly.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133741095052-dd1khcvcm4m7g8493npe6g6l3bsvv55j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dmonly.app",
+            "certificate_hash": "fce1b1110c7a15c10fc930c404812cd98693bf6f"
+          }
+        },
+        {
+          "client_id": "133741095052-s13mph1mq2mkmkt19s61l80q5o63chpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dmonly.app",
+            "certificate_hash": "0a03a14bf70325cfcde1c233d3d8190c2f206093"
+          }
+        },
+        {
+          "client_id": "133741095052-geaeui7lns6fbkglkcud4dcd33kr9luv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxmD8aTxptl9hDgVNSBchsCcsqQzSyZGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133741095052-geaeui7lns6fbkglkcud4dcd33kr9luv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "bilingo-functions",
+  "description": "Generates and checks BiLingo content packs with OpenAI.",
+  "private": true,
+  "main": "index.js",
+  "engines": { "node": "22" },
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "firebase-admin": "^13.0.0",
+    "firebase-functions": "^6.0.0",
+    "pyodide": "^0.27.0"
+  }
+}
